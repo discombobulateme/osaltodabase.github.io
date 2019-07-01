@@ -1,0 +1,65 @@
+
+.footer_links{
+  color: black;
+}
+
+.sky{
+  background-image: url('../images2/sky2.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: auto;
+}
+
+.firstimg{
+  z-index: 1;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+
+.secondimg{
+  z-index: 2;
+  position: absolute;
+  left: 10%;
+  top: 25%;
+}
+
+.thirdimg{
+  z-index: 3;
+  position: absolute;
+  left: 5%;
+  top: 60%;
+}
+
+.fourthimg{
+  z-index: 4;
+  position: absolute;
+  left: 15%;
+  top: 70%;
+}
+
+body {
+  font-family: verdana;
+}
+
+p{
+font-family: verdana;
+
+}
+
+h1{
+font-family: verdana;
+font-weight: bold;
+}
+
+h2{
+font-family: verdana;
+
+}
+
+h3{
+font-family: verdana;
+
+}
